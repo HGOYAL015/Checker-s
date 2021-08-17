@@ -1,5 +1,5 @@
 # Checker-AI
 
-Implementation Of Game Theory Max-Min Algorithm.
-GUI based Checker game.
+<p>Implementation Of Game Theory Max-Min Algorithm. </p>
+<p>GUI based Checker game.</p>
 
